@@ -1,0 +1,23 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sming0112/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sming0112/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/sming0112/wanted-pre-onboarding-challenge-fe-2#readme",
+  "dependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
